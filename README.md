@@ -13,3 +13,6 @@ This analysis uses data from the provided zippedData folder. The folder contains
 ## Insights
 
 ![Q1](Visualizations/Question1.png)
+![Q2](Visualizations/Question2.png)
+![Q3](Visualizations/Question3.png)
+![Q4](Visualizations/Question4.png)
