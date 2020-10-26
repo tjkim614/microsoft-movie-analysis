@@ -12,4 +12,4 @@ This analysis uses data from the provided zippedData folder. The folder contains
 
 ## Insights
 
-![alt text](https://github.com/tjkim614/microsoft-movie-analysis/blob/main/Visualizations/Question 1.jpg?raw=true)
+![alt text](https://github.com/tjkim614/microsoft-movie-analysis/blob/main/Visualizations/'Question 1'.jpg?raw=true)
