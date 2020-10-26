@@ -16,3 +16,12 @@ This analysis uses data from the provided zippedData folder. The folder contains
 ![Q2](Visualizations/Question2.png)
 ![Q3](Visualizations/Question3.png)
 ![Q4](Visualizations/Question4.png)
+
+## Recommendations:
+- Movies should be produced with higher regards to the global market than the domestic market.
+- While the production of some genres is greater than others; avoid deciding on a movie genre because it is produced the most.
+
+## Questions for Future Study:
+- How to target the global market (i.e. genre choice, production language, casting, etc.).
+- After enough data has been recorded, investigate how COVID-19 affected the movie industry.
+- Look at which movie genres have historically been the most popular and their rate of success.
